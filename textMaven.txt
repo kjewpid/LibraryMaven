@@ -1,0 +1,9 @@
+Maven
+1. mvn compile - Användes för att kompilera javaklassfilerna.
+2. mvn javadoc:javadoc - Användes för att skapa javadoc(dokumentation). Html filen går att hitta i target/reports/apidocs/index.html
+3. mvn site - för att generera en rapport i form av en html-fil. Går att hitta i target/site/rapportNamn.html
+4. mvn package - Användes för att kompilera, testa, och slutligen skapa en JAR fil som sparas i target/. (Eftersom jag inte definierade vilken typ
+   av fil som koden skulle paketeras som så skapades en jar fil by default)
+5. mvn clean / mvn clean:clean - Användes för att rensa bygget, dvs. ta bort alla genererade klassfiler (och andra filer) från tidigare bygge(build) 
+   (använde mvn clean package - detta rensade bygget innan ett nytt package skapades baserat på dem senaste ändringarna jag gjort)
+6. mvn test - Användes för att testa källkoden
