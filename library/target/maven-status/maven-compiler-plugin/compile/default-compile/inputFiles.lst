@@ -1,0 +1,11 @@
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/Book.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/BookCatalog.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/BookNotFoundException.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/Customer.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/Loan.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/LoanAlreadyExistsException.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/LoanNotFoundException.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/models/Material.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/ui/Main.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/utilities/GenderType.java
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java/utilities/LoanStatus.java

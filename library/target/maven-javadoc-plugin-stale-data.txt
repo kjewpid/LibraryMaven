@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/src/main/java = 1762938632000
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/tag-search-index.js = 1763474821440
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/overview-tree.html = 1763474821435
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/module-search-index.js = 1763474821439
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/index.html = 1763474821435
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/package-search-index.js = 1763474821439
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/serialized-form.html = 1763474821422
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/index-all.html = 1763474821443
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/allpackages-index.html = 1763474821439
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/member-search-index.js = 1763474821440
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/overview-summary.html = 1763474821444
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/help-doc.html = 1763474821445
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/element-list = 1763474821413
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/search.html = 1763474821443
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/allclasses-index.html = 1763474821438
+/Users/josephine/Documents/Yrgo/Utvecklingsverktyg/IdeaProjects/library/target/reports/apidocs/type-search-index.js = 1763474821440
